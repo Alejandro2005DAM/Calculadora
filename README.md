@@ -1,2 +1,2 @@
 # Calculadora
-My first small project in JS
+My first small project in JAVASCRIPT
